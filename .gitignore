@@ -27,3 +27,6 @@ yarn-error.log*
 
 # Ignore ESLint files
 .eslintcache
+
+## Ignore large file folder
+large_file_folder
